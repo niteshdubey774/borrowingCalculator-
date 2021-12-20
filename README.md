@@ -1,5 +1,12 @@
 # borrowingCalculator-
 ANZ loan calculator
+How to run the Project 
+npm test 
+
+How to generate the report 
+npm run report  
+This will generate the awesome report for the test execution
+
 
 
 1.	What other tests would you suggest could be written? You do not need to write them out in detail or code them.
